@@ -55,6 +55,7 @@ table {
 #container{
     margin: auto;
     width: 600px;
+    background-color: #51473D;
     
 }
 
@@ -85,6 +86,7 @@ table {
 
 #content{
     width:100%;
+    background-color: #EAE7D2;
     
 }
 
@@ -115,5 +117,17 @@ table {
     clear: both;
     
 }
-    
+  
+  
+  /*------------Allmänn formatering av text-------------*/
+  
+  h1, h2 {
+      font-family: "times new roman", serif;
+  }
+  
+  p, a {
+      font-family: "verdana", sans-serif;
+      color: #797066;
+      
+  }
     
