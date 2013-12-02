@@ -140,7 +140,7 @@ table {
       
       font-size: 1.5em;
       color: #51473D;
-      margin-top: 14%;
+      margin-top: 10%;
       margin-bottom: 2%;
   }
   
@@ -199,6 +199,11 @@ margin-top: 6px;
     padding-bottom:10px;
 }  
 
+#menu li:hover {
+    background-color: #9c9084;
+    
+}
+
 
 #menu li.active a {
 color:#797066;
@@ -245,7 +250,12 @@ color:#797066;
 
 #topbar{
     text-align: right;
-  
+    color:#EAE7D2 ; 
+    
+}
+
+#bottomcontent {
+    color: #797066;
     
 }
 
